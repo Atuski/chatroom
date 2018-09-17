@@ -1,6 +1,6 @@
-# to_do
+# vue-todos
 
-> my little project
+> A Vue.js project
 
 ## Build Setup
 
